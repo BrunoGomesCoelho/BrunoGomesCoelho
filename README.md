@@ -4,7 +4,7 @@
   I'm currently a PhD Student @ New York University (NYU). I'm currently living in 🗽 <b> NYC, </b> having gone through 🇧🇷 <b> Brazil</b>, 🇵🇹 <b> Portugal </b> and 🇮🇪 <b> Ireland. </b>
 </p>
 
-I'm interested in theoretical foundations of Machine Learning and Deep Learning - See my [now page](https://brunogomescoelho.github.io/) for what I'm currently working on.
+I'm interested in theoretical foundations of Machine Learning and Deep Learning and it's application "for good" - See my [now page](https://brunogomescoelho.github.io/) for what I'm currently working on.
 
 ### 📫 Contact
 
