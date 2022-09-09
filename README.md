@@ -1,4 +1,4 @@
-<h1 align='center'> :wave: Hello, I'm <a href="http://brunocoelho.ml"> Bruno</a> </h1>
+<h1 align='center'> :wave: Hello, I'm <a href="https://brunogomescoelho.github.io"> Bruno</a> </h1>
 
 <p align='center'>
   I'm currently a PhD Student @ New York University (NYU). I'm currently living in 🗽 <b> NYC, </b> having gone through 🇧🇷 <b> Brazil</b>, 🇵🇹 <b> Portugal </b> and 🇮🇪 <b> Ireland. </b>
