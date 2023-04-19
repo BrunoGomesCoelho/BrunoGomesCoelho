@@ -1,7 +1,7 @@
 <h1 align='center'> :wave: Hello, I'm <a href="https://brunogomescoelho.github.io"> Bruno</a> </h1>
 
 <p align='center'>
-  I'm currently a PhD Student @ New York University (NYU). I'm currently living in 🗽 <b> NYC, </b> having gone through 🇧🇷 <b> Brazil</b>, 🇵🇹 <b> Portugal </b> and 🇮🇪 <b> Ireland. </b>
+  I'm currently a Ph.D. Candidate @ New York University (NYU). I'm currently living in 🗽 <b> NYC, </b> having gone through 🇧🇷 <b> Brazil</b>, 🇵🇹 <b> Portugal </b> and 🇮🇪 <b> Ireland. </b>
 </p>
 
 I'm interested in theoretical foundations of Machine Learning and Deep Learning and it's application "for good" - See my [now page](https://brunogomescoelho.github.io/) for what I'm currently working on.
